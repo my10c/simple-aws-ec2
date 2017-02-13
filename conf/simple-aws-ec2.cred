@@ -1,0 +1,9 @@
+[simple-aws-ec2]
+aws_access_key_id = "XXXXXXXXXX"
+aws_secret_access_key = "YYYYYYYYYY"
+region = "us-west-2"
+
+[momo]
+aws_access_key_id = "XXXXXXXXXX"
+aws_secret_access_key = "YYYYYYYYYY"
+region = "us-east-1"
